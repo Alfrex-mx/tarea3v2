@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tarea3V2</string>
+
+    <string-array name="history_actions">
+        <item>All</item>
+        <item>insert_category</item>
+        <item>insert_note</item>
+    </string-array>
+</resources>
